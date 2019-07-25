@@ -25,9 +25,11 @@ Use of any software and related documentation ("Software") provided to you by Da
 
 11. Indemnification By You. If you distribute the Software in violation of this Agreement, you agree to indemnify, hold harmless and defend Damos Designs and its suppliers from and against any claims or lawsuits, including attorney's fees that arise or result from the use or distribution of the Software in violation of this Agreement.
 
-Damos Designs
-1280 West Peachtree St. #2906
-Atlanta, GA 30309
+12. Google Disclaimers. Damos Designs is explicitly stating that we are using Google API in our products. We are required to inform the user that they are bound by Google's Terms of Service which can be found at (https://policies.google.com/terms). One of Google's great services is their Maps API and it is used in some of Damos Designs products. They require us to notify users that we are using their services and for us to incorporate the Google Privacy Policy which can be found at (https://policies.google.com/privacy). Thanks Google! 
 
-DamosDesigns@Gmail.com
-DamosDesigns.com
+Damos Designs
+Damien Gilliams
+300 Colonial Center Parkway
+STE 100N,
+Roswell, Georgia
+United States 30076
